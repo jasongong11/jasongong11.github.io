@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Xuanjun (Jason) Gong. I am a Ph.D. candidate at [Department of Communication](https://communication.ucdavis.edu/), UC, Davis. I am a researcher at [Cognitive Communication Science Lab](https://cogcommscience.com/), PI: [Richard Huskey](https://scholar.google.com/citations?user=Y3SasXsAAAAJ&hl=en). My research focus is on **media selection**, **computational modeling**, **communication networks**, **information diffusion**. 
+I am Xuanjun (Jason) Gong. I am a Ph.D. candidate at [Department of Communication](https://communication.ucdavis.edu/), UC, Davis. I am a researcher at [Cognitive Communication Science Lab](https://cogcommscience.com/), PI: [Richard Huskey](https://scholar.google.com/citations?user=Y3SasXsAAAAJ&hl=en). My research focus is on **media selection**, **computational modeling**, **communication networks**, and **information diffusion**. 
 
-I am currently seeking for an academic job in the filed of communication this year. 
+I am currently seeking for academic positions in the filed of communication this year. 
 
 My research has been published in outlets such as *Journal of Communication*, *Human Communication Research*, *Computational Communication Research*, *American Behavioral Scientist*,
 and *Journal of Medical Internet Research*.
