@@ -12,7 +12,11 @@ Excited to announce that our new publication [Broadcast information diffusion pr
 
 In this study, we investigated the integration and segregation dynamics of communication networks. With a simulation and empirical Twitter discourse data, we found that viral spreading maintains segregation, while broadcasting drives the spike of integration.
 
+![plot2](img/twitter_int_seg_2.jpeg)
+
 Obviously, social networks and communication are dynamic systems. Our study suggests that we should consider the time-varying nature of communication networks when discussing pressing social phenomena such as polarization, echo chambers, and diffusion of misinformation.
+
+![plot1](img/twitter_int_seg_1.jpeg)
 
 The press coverage is [here](https://www.ucdavis.edu/news/tweets-can-amplify-disrupt-unite-divide).
 
