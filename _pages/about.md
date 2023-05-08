@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://communication.ucdavis.edu/people/xjgong'>PhD Candidate, Department of Communication, University of California, Davis</a>. 167 Kerr Hall, Davis, CA, 95616.
+subtitle: PhD Candidate, Department of Communication, University of California, Davis.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: true # crops the image to make it circular
   address: >
+    <p>xjgong at ucdavis dot edu</p>
     <p>167 Kerr Hall</p>
     <p>Davis, CA 95616</p>
 
@@ -18,8 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Xuanjun (Jason) Gong. I am a Ph.D. candidate at [Department of Communication](https://communication.ucdavis.edu/), UC, Davis. I am a researcher at [Cognitive Communication Science Lab](https://cogcommscience.com/), PI: [Richard Huskey](https://scholar.google.com/citations?user=Y3SasXsAAAAJ&hl=en). My research focus is on **media selection**, **computational modeling**, **communication networks**, **information diffusion**. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently seeking for an academic job in the filed of communication this year. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research has been published in outlets such as *Journal of Communication*, *Human Communication Research*, *Computational Communication Research*, *American Behavioral Scientist*,
+and *Journal of Medical Internet Research*.
