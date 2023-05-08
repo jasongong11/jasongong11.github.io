@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: Blow is a brief description of my teaching experiences.
 nav: true
 nav_order: 5
 ---
