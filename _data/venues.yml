@@ -9,3 +9,7 @@
 "JMIR":
   url: https://www.jmir.org/
   color: "#171dc2"
+  
+"CCR":
+  url: https://computationalcommunication.org/ccr
+  color: "#036b9c"
