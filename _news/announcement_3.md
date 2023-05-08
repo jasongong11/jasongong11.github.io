@@ -6,7 +6,7 @@ title: Present TOP PAPER AT NCA21
 related_posts: false
 ---
 
-I presented a Top Paper in the Communication and Social Cognition Division at NCA21. The paper uses drift diffusion modeling to test core hypotheses drawn from Mood Management Theory. Jason’s slides are available online.
+I presented a Top Paper in the Communication and Social Cognition Division at NCA21. The paper uses drift diffusion modeling to test core hypotheses drawn from Mood Management Theory. 
 
 ![plot](img/mmt_ddm.webp)
 
