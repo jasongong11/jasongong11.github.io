@@ -19,7 +19,7 @@ Flow is characterized by high intrinsic reward, high engagement, and high cognit
 
 Citation:
 
-Gong, X. & Huskey, R. (March, 2021). Fronto-Parietal and Reward Networks are Integrated During the Psychological State of Flow. Annual Meeting of the Cognitive Neuroscience Society, Virtual Conference.
+> Gong, X. & Huskey, R. (March, 2021). Fronto-Parietal and Reward Networks are Integrated During the Psychological State of Flow. Annual Meeting of the Cognitive Neuroscience Society, Virtual Conference.
 
 ***
 
