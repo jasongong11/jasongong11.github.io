@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I have experiences as independent instructor and teaching assistant at UC Davis. I can teach **communication theories**, **media psychology**, **computational social science**, and **statisticals**.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+  <h2 class="year">2023</h2>
+    CMN 140: Mass Communication
+    CMN 120: Interpersonal Communication
+    CMN 110: Communication Networks
 
-Organize your courses by years, topics, or universities, however you like!
+  <h2 class="year">2022</h2>
+    CMN 001: Introduction to Public Speaking **Instructor**
+    CMN 12Y: Data Visualization in Social Science
+    CMN 140: Mass Communication
+    
+  <h2 class="year">2020</h2>
+    CMN 140: Mass Communication
+    CMN 001: Introduction to Public Speaking 
+
+
+
