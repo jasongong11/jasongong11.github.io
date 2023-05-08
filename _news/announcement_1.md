@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-01-28 12:00:00-0400
 title: GRADUATE STUDENT AWARD at CNS21
+date: 2021-01-28 12:00:00-0400
 inline: false
 related_posts: false
 ---
