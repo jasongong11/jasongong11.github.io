@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Blow is a brief description of my teaching experiences.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 I have experiences as independent instructor and teaching assistant at UC Davis.
