@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Blow is my github stats and a list of selected repos.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## GitHub users
