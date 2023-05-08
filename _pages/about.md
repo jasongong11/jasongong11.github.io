@@ -7,7 +7,7 @@ subtitle: PhD Candidate, Department of Communication, University of California, 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>xjgong at ucdavis dot edu</p>
     <p>167 Kerr Hall</p>
