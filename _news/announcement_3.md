@@ -8,6 +8,8 @@ related_posts: false
 
 I presented a Top Paper in the Communication and Social Cognition Division at NCA21. The paper uses drift diffusion modeling to test core hypotheses drawn from Mood Management Theory. Jason’s slides are available online.
 
+![plot](./assets/img/news/mmt_ddm.webp)
+
 Presentation Title: Computationally Modeling Mood Management Theory: A Drift-Diffusion Model of People’s Preference for Valence and Arousal
 
 Authors: Xuanjun (Jason) Gong, Richard Huskey, Allison Eden, Ezgi Ulusoy
