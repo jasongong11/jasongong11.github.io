@@ -2,7 +2,7 @@
 layout: post
 date: 2021-11-17 07:59:00-0400
 inline: false
-title: Present **TOP PAPER** AT **NCA21**
+title: Present TOP PAPER AT NCA21
 related_posts: false
 ---
 
