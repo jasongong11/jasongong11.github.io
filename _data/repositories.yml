@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jasongong11
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jasongong11/Twitter_Integration_And_Segregation
+  - cogcommscience-lab/movie_selection
+  - jasongong11/media_selection_predictability
+  - jasongong11/covid_x_ray_classification_cnn_sift_svm
