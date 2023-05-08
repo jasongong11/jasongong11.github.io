@@ -2,34 +2,34 @@
   type: map
   contents:
     - name: Full Name
-      value: Xuanjun (Jason) Gong
+      value: Xuanjun Jason Gong
     - name: Email Address
       value: xjgong@ucdavis.edu
     - name: Address
-      value: 167 Kerr Hall, Davis, CA, 95616
+      value: 167 Kerr Hall Davis CA 95616
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Communication
       institution: University of California, Davis, United States
-      year: 2019-2024
+      year: 2019 - 2024
       description:
-        - PI: [Richard Huskey](https://communication.ucdavis.edu/directory-of-people/featured-faculty/richard-huskey)
+        - PI: <a href="https://communication.ucdavis.edu/directory-of-people/featured-faculty/richard-huskey">Richard Huskey</a>
         - Thesis:
           - Dynamic Computational Modeling of Sequential Media Selection
     - title: MS in Statistics
       institution: University of California, Davis, United States
-      year: 2021-2023
+      year: 2021 - 2023
       description:
-        - Advisor: [Shizhe Chen](http://www.chenshizhe.com/)
+        - Advisor: <a href="http://www.chenshizhe.com/">Shizhe Chen</a>
     - title: MS in Advertising
       institution: University of Illinois, Urbana-Champaign, United States
-      year: 2017-2019
+      year: 2017 - 2019
       description:
-        - Advisor: [Brittany Duff](https://media.illinois.edu/advertising/duff-brittany)
+        - Advisor: <a href="https://media.illinois.edu/advertising/duff-brittany">Brittany Duff</a>
         - Thesis:
-          - [An exploration account of media multitasking](https://www.ideals.illinois.edu/items/112921)
+          - <a href="https://www.ideals.illinois.edu/items/112921">An exploration account of media multitasking</a>
     - title: BA in Advertising
       institution: Zhejiang Gongshang University, Hangzhou, China
       year: 2013-2017
