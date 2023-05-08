@@ -8,7 +8,7 @@ related_posts: false
 
 I presented a Top Paper in the Communication and Social Cognition Division at NCA21. The paper uses drift diffusion modeling to test core hypotheses drawn from Mood Management Theory. 
 
-![plot](img/mmt_ddm.webp)
+{% include figure.html path="assets/img/news/mmt_ddm.webp" title="ddm mmt" class="img-fluid rounded z-depth-1" %}
 
 Presentation Title: Computationally Modeling Mood Management Theory: A Drift-Diffusion Model of People’s Preference for Valence and Arousal
 
