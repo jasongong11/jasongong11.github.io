@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 I have experiences as independent instructor and teaching assistant at UC Davis.
-I can teach **communication theories**, **media psychology**, **computational social science**, and **statisticals**.
+I can teach **communication theories**, **media psychology**, **computational social science**, and **statistics**.
 
 <h1>Instructor</h1>
   <h2 class="year">2022</h2>
