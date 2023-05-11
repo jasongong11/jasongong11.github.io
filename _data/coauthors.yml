@@ -1,34 +1,25 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Huskey":
+  - firstname: ["Richard", "R.", "R. H.", "Richard Huskey"]
+    url: https://scholar.google.com/citations?user=Y3SasXsAAAAJ&hl=en
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Eden":
+  - firstname: ["Allison", "A.", "A. E.", "Allison Eden"]
+    url: https://scholar.google.com/citations?user=iU_0LpgAAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ulusoy":
+  - firstname: ["Ezgi", "E.", "E. U.", "Ezgi Ulusoy"]
+    url: https://ulusoyez.com/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Xue":
+  - firstname: ["Haoning", "H.", "H. X.", "Haoning Xue"]
+    url: https://scholar.google.com/citations?user=fUBm7YnvTZEC&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Shen":
+  - firstname: ["Cuihua", "Cindy", "C. S.", "C.", "Cuihua Shen"]
+    url: https://scholar.google.com/citations?user=qoj5YaYAAAAJ&hl=en
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Frey":
+  - firstname: ["Seth", "S.", "S. F.", "Seth Frey"]
+    url: https://scholar.google.ch/citations?user=DO4uc-kAAAAJ&hl=en
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
