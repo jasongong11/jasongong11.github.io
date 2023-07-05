@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jasong11# your GitHub user name
+github_username: jasongong11# your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: GongXuanjun# your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -105,7 +105,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is through email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -178,12 +178,12 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit:  # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -269,8 +269,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Gong]
+  first_name: [Xuanjun, Jason]
 
   style: apa
   locale: en
@@ -300,7 +300,7 @@ badges: # Display different badges for your publications
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3  # leave blank to always show all authors
+max_author_limit: 5  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 
