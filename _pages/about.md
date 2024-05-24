@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am Xuanjun (Jason) Gong. I am a Ph.D. candidate at [Department of Communication](https://communication.ucdavis.edu/), UC, Davis. I am a researcher at [Cognitive Communication Science Lab](https://cogcommscience.com/), PI: [Richard Huskey](https://scholar.google.com/citations?user=Y3SasXsAAAAJ&hl=en). My research focus is on **media selection**, **computational modeling**, **communication networks**, and **information diffusion**. 
 
-I am currently seeking for academic positions in the field of communication this year. 
+**In August 2024 I will be joining the Department of Communication & Journalism at Texas A&M University as a tenure-track Assistant Professor.**
 
 My research has been published in outlets such as *Journal of Communication*, *Human Communication Research*, *Computational Communication Research*, *American Behavioral Scientist*,
 and *Journal of Medical Internet Research*.
