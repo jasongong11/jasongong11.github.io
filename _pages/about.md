@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, Department of Communication, University of California, Davis.
+subtitle: Assistant Professor, Department of Communication and Journalism, Texas A&M University, College Station.
 
 profile:
   align: right
@@ -19,9 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Xuanjun (Jason) Gong. I am a Ph.D. candidate at [Department of Communication](https://communication.ucdavis.edu/), UC, Davis. I am a researcher at [Cognitive Communication Science Lab](https://cogcommscience.com/), PI: [Richard Huskey](https://scholar.google.com/citations?user=Y3SasXsAAAAJ&hl=en). My research focus is on **media selection**, **computational modeling**, **communication networks**, and **information diffusion**. 
-
-**In August 2024 I will be joining the Department of Communication & Journalism at Texas A&M University as a tenure-track Assistant Professor.**
+I am Xuanjun (Jason) Gong. I am an assistant professor at [Department of Communication and Journalism](https://liberalarts.tamu.edu/communication/), Texas A&M University. My research focus is on **media selection**, **computational modeling**, **communication networks**, and **information diffusion**. 
 
 My research has been published in outlets such as *Journal of Communication*, *Human Communication Research*, *Computational Communication Research*, *American Behavioral Scientist*,
 and *Journal of Medical Internet Research*.
