@@ -11,12 +11,13 @@ I have experiences as independent instructor and teaching assistant at UC Davis.
 I can teach **communication theories**, **media psychology**, **computational social science**, and **statistics**.
 
 <h1>Instructor</h1>
+  <h2 class="year">2024</h2>
+    COMM 611: Advanced Quantitative Methods in Communication Research
+    COMM 303: Communication Data Application
+    COMM 304: Digital Communication Analytics and Metrics
   <h2 class="year">2022</h2>
     CMN 001: Introduction to Public Speaking 
-  <h2 class="year">2024</h2>
-    COMM 303: Communication Data Application
-    COMM 304: Digital Communication Analytics and Metrics    
-
+ 
 <h1>Teaching Assistant</h1>
   <h2 class="year">2023</h2>
     CMN 140: Mass Communication
