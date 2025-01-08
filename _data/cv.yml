@@ -4,9 +4,9 @@
     - name: Full Name
       value: Xuanjun (Jason) Gong
     - name: Email Address
-      value: xjgong@ucdavis.edu
+      value: xjgong@tamu.edu
     - name: Address
-      value: 167 Kerr Hall, Davis, CA, 95616
+      value: 202D Bolton Hall, College Station, TX, 77843
 
 - title: Education
   type: time_table
@@ -39,9 +39,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Department of Communication & Journalism, Texas A&M University, Collge Station, TX
+      year: 2024-NOW
+      description:
+        - Principle Investigator
+        - Instructor
+        - Grant writing and project management.
+
     - title: Graduate Student Researcher
       institution: Department of Communication, UC, Davis
-      year: 2019-Now
+      year: 2019-2024
       description:
         - Conduct research projects.
         - Data management, statistical analysis, code review.
@@ -49,13 +57,13 @@
         
     - title: Teaching Assistant
       institution: Department of Communication, UC, Davis
-      year: 2020-Now
+      year: 2020-2024
       description:
         - Assisting course instructors for material preparation and lectures delivery.
         - Deliver lectures, discussion sessions, lab sessions.
         - Answering questions and host office hours.
 
-    - title: Instructor
+    - title: Associate Instructor
       institution: Department of Communication, UC, Davis
       year: 2022
       description:

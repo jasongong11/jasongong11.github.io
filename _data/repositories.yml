@@ -2,6 +2,7 @@ github_users:
   - jasongong11
 
 github_repos:
+  - jasongong11/sequential_book_selection
   - jasongong11/Twitter_Integration_And_Segregation
   - cogcommscience-lab/movie_selection
   - jasongong11/media_selection_predictability
